@@ -10,6 +10,6 @@ The Game of Life, is a dynamical system represented by cellular automaton. There
 3. Any live cell with more than three live neighbours dies, as if by overpopulation.
 4. Any dead cell with exactly three live neighbours becomes a live cell, as if by reproduction.
 
-This program is a 20 by 20 version of this system that I have implemented.
+This program is a 20 by 20 version of this system that I implemented. After hitting the "start" button, the system starts over the initial conditions and the dynamical evolution of the system is visualized, generation by generation. To change the "initial condition" of the system, edit (fill in with 0's and 1's) the 2D array "board" in the file "Chaos.java" (line 17.)
 
 
